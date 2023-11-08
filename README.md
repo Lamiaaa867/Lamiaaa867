@@ -6,7 +6,10 @@
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
-
+<p>🔭 I’m currently learning web development</p>
+<p>👯 I’m looking to collaborate on big project</p>
+<p>🤝 I’m looking for help with node.js and react</p>
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
