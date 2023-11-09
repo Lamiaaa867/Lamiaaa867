@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋! My name is Lamiaa Emad </h2> 
-<h2 align="center">I'm a computer science student at Ain shams university. I</h2>
+<h2 align="center">I'm a computer science student at Ain shams university.</h2>
 
 ###
 
